@@ -1,3 +1,5 @@
+# This is the traditional magic 8-ball script with if, elif, else statements.
+
 import random  # Import random library to allow for .randint() function
 
 # Optional: Ask for the user's name, or you can keep it as a fixed name
