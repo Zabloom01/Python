@@ -1,3 +1,6 @@
+# This script is intended to be a funny chatbot that helps users order coffee.  The basis of the script is built using functions.
+# Those functions are assigned to variables and used to perform logical operations and help calculate cost at the end.
+
 # Define your functions
 def coffee_bot():
     print("Welcome to the cafe! I am your personal Coffee Bot! Prepare yourself for an unforgettable drink experience!")
